@@ -1,7 +1,8 @@
 <?php
 
-use App\Http\Controllers\Admin\SelfProfileController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Admin\NewsController;
+use App\Http\Controllers\Admin\SelfProfileController;
 
 /*
 |--------------------------------------------------------------------------
